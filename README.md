@@ -2,3 +2,4 @@
 
 - Model
 - Temp
+- views
